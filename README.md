@@ -22,3 +22,13 @@ Säätietojen selaaminen valitulla aikavälillä.
 
 
 ## Arkkitehtuurikuvaus
+
+**Luokkakaavio**
+
+**sekvenssikaavio**
+
+## Työaikakirjanpito
+
+## käyttöohje
+
+**järjestelmän konfigurointi**
