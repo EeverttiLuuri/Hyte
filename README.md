@@ -29,11 +29,11 @@ Säätietojen selaaminen valitulla aikavälillä.
 
 ## Työaikakirjanpito
 
-päivä | aika
----- -| -----
-4.11  |5h
-5.11  |3h
-
+päivä | aika | tehtävä
+------------ | ------------- | -----------
+4.11 | 7h | suunnittelua
+6.11 | 5h | rakentamista
+8.11 | 8h | asentamista/koodausta
 ## käyttöohje
 
 **järjestelmän konfigurointi**
