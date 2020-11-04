@@ -22,7 +22,7 @@ Säätietojen selaaminen valitulla aikavälillä.
 
 
 ## Arkkitehtuurikuvaus
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 **Luokkakaavio**
 
 **sekvenssikaavio**
