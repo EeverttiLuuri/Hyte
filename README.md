@@ -29,6 +29,11 @@ Säätietojen selaaminen valitulla aikavälillä.
 
 ## Työaikakirjanpito
 
+päivä | aika
+---- -| -----
+4.11  |5h
+5.11  |3h
+
 ## käyttöohje
 
 **järjestelmän konfigurointi**
