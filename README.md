@@ -42,7 +42,7 @@ päivä | aika | tehtävä
 **järjestelmän konfigurointi**
 
 ## Työvaiheet
-**Vaihe 1 kytkentä**
+**Vaihe 2 kytkentä**
 
 ![image of kytkentä](hienompinimi.png)
 
