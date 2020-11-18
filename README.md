@@ -44,5 +44,7 @@ päivä | aika | tehtävä
 ## Työvaiheet
 **Vaihe 1 kytkentä**
 
+![image of kytkentä](hienompinimi.png)
+
 ![image of kytkentä](hienonimi.png)
 
