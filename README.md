@@ -41,4 +41,4 @@ päivä | aika | tehtävä
 
 **järjestelmän konfigurointi**
 
-##Työvaiheet
+## Työvaiheet
