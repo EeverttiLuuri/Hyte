@@ -24,9 +24,9 @@ Säätietojen selaaminen valitulla aikavälillä.
 ## Arkkitehtuurikuvaus
 ![image of sääasema](https://images.clasohlson.com/medias/sys_master/h3b/h6d/9675460902942.jpg)
 **Luokkakaavio**
-![image of neekeri](luokkakaavio-abstraktit.png)
+![image of luokkakaavio](luokkakaavio-abstraktit.png)
 **sekvenssikaavio**
-
+![image of skvenssikaavio](lataus.jpg)
 ## Työaikakirjanpito
 
 päivä | aika | tehtävä
