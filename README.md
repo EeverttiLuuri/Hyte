@@ -40,3 +40,5 @@ päivä | aika | tehtävä
 ## käyttöohje
 
 **järjestelmän konfigurointi**
+
+##Työvaiheet
