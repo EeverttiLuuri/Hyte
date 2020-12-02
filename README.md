@@ -42,6 +42,12 @@ päivä | aika | tehtävä
 **järjestelmän konfigurointi**
 
 ## Työvaiheet
+
+**vaihe 1 kytkentä**
+
+![image of kytkentä](photon1.PNG
+
+
 **Vaihe 2 kytkentä**
 
 ![image of kytkentä](hienompinimi.png)
