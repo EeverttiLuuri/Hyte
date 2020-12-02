@@ -45,7 +45,7 @@ päivä | aika | tehtävä
 
 **vaihe 1 kytkentä**
 
-![image of kytkentä](photon1.PNG
+![image of kytkentä](photon1.PNG)
 
 
 **Vaihe 2 kytkentä**
